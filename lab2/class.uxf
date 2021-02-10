@@ -1,0 +1,50 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>48</x><y>60</y><w>160</w><h>70</h></coordinates><panel_attributes>User
+--
++ name : String</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>808</x><y>220</y><w>150</w><h>140</h></coordinates><panel_attributes>Product
+--
++ name: String
++ price : double
+-  quantity : int
++ valiable: boolean
+--
++ getName(): String
++ getPrice(): double
++ updatequantity() : int</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>478</x><y>500</y><w>180</w><h>100</h></coordinates><panel_attributes>Maintainence
+--
+- id: int
+--
++ setChange():double
++ getCash(): double
++ setMode( boolean ): boolean</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>478</x><y>210</y><w>200</w><h>160</h></coordinates><panel_attributes>VenderMachine
+--
+- cash: double
+- changes: double
+- inventory: int
++ useable: boolean  
+--
++ getCash(double): double
++ getChange(double): double
++ inStock( int ): int</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>203</x><y>260</y><w>160</w><h>70</h></coordinates><panel_attributes>Purchase
+--
++ price: double
++ cash: double
++ change: double
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>113</x><y>130</y><w>110</w><h>200</h></coordinates><panel_attributes>lt=-
+m1=1
+m2=*
+interact &gt;</panel_attributes><additional_attributes>10;10;10;170;90;170</additional_attributes></element><element><id>Relation</id><coordinates><x>673</x><y>270</y><w>150</w><h>50</h></coordinates><panel_attributes>lt=-
+m1=1
+m2=1...N
+</panel_attributes><additional_attributes>10;20;130;20</additional_attributes></element><element><id>Relation</id><coordinates><x>563</x><y>370</y><w>90</w><h>150</h></coordinates><panel_attributes>lt=-
+m1=*
+m2=1
+&lt; Interacts</panel_attributes><additional_attributes>10;10;10;130</additional_attributes></element><element><id>UMLClass</id><coordinates><x>790</x><y>520</y><w>160</w><h>70</h></coordinates><panel_attributes>Admin
+--
++name:String
+-id: int</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>650</x><y>510</y><w>160</w><h>50</h></coordinates><panel_attributes>lt=-
+m1=*
+m2=1...N
+&lt; manipulate</panel_attributes><additional_attributes>10;20;140;20</additional_attributes></element><element><id>Relation</id><coordinates><x>360</x><y>270</y><w>130</w><h>50</h></coordinates><panel_attributes>lt=-
+m1=1...n
+m2=1
+ </panel_attributes><additional_attributes>10;20;110;20</additional_attributes></element></diagram>
