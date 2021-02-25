@@ -1,9 +1,9 @@
-ENSE370 Software System Design Lab 
-# Design Pattern Reference 
+# ENSE370 Software System Design Lab 
+## Design Pattern Reference 
 [Design Pattern Tutorial](https://www.tutorialspoint.com/design_pattern/index.htm)
 
 ---
-# Labs
+## Labs
 1. Lab1 Introduction to CLI and Snoopy
 
 *  [Lab Document](https://github.com/adamtilson/ense370/blob/main/lab-1/lab-doc.md)
@@ -20,6 +20,6 @@ ENSE370 Software System Design Lab
 
 * [Lab Document](https://github.com/adamtilson/ense370/blob/main/lab-4/lab-doc.md)
 
-# Assignments
-* Assignment 00
-* Assignment 01
+## Assignments
+1. Assignment 00
+2. Assignment 01
