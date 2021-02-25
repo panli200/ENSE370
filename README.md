@@ -1,5 +1,8 @@
 ENSE370 Software System Design Lab 
+# Design Pattern Reference 
+[Design Pattern Tutorial](https://www.tutorialspoint.com/design_pattern/index.htm)
 
+---
 # Labs
 1. Lab1 Introduction to CLI and Snoopy
 
