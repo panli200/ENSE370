@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.lang.StringBuilder;
 /**
  *
- * @author LiPan 200371281
+ * @author LiPan 
  */
 public class WheelGame {
 
