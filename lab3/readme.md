@@ -1,7 +1,7 @@
 ## ENSE 370 - Software Systems Design - Laboratory
 
 # Lab 3: Factory Design Pattern
-# Li Pan 200371281
+
 
 
 ---
