@@ -2,7 +2,7 @@
  * A factory robot controller that sends commands to multiple robots in an assembly line 
  * to create a specific object following a sequence of predetermined steps. 
  * 
- * Author : Li Pan 200371281
+ * Author : Li Pan 
  * Reference: final long number = (long) Math.floor(Math.random() * 900000000000L) + 100000000000L;
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
