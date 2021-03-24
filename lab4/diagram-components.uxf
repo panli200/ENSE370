@@ -1,0 +1,57 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>635</x><y>393</y><w>270</w><h>90</h></coordinates><panel_attributes>/WeaponDecorator/
+--
+-abstractKnight : AbstractKnight
+--
+WeaponDecorator(AbstractKnight)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>405</x><y>393</y><w>180</w><h>90</h></coordinates><panel_attributes>Knight
+--
+
+--
+getAttackDescription(): void
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>465</x><y>233</y><w>190</w><h>180</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>170;10;170;90;10;90;10;160</additional_attributes></element><element><id>Relation</id><coordinates><x>625</x><y>233</y><w>160</w><h>180</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;90;140;90;140;160</additional_attributes></element><element><id>UMLClass</id><coordinates><x>785</x><y>643</y><w>180</w><h>140</h></coordinates><panel_attributes>SpearDecorator
+--
+
+--
+getAttackDescription(): void
+getAttackDamage(): int
+SwordDecorator(AbstractKnight)</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>765</x><y>473</y><w>510</w><h>190</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;90;490;90;490;170</additional_attributes></element><element><id>Relation</id><coordinates><x>275</x><y>473</y><w>520</w><h>190</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>500;10;500;90;10;90;10;170</additional_attributes></element><element><id>Relation</id><coordinates><x>725</x><y>183</y><w>300</w><h>280</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-&gt;
+component</panel_attributes><additional_attributes>180;260;220;260;220;10;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>533</x><y>153</y><w>200</w><h>90</h></coordinates><panel_attributes>/AbstractKnight/
+--
+
+--
+getAttackDescription(): void
+getAttackDamage(): int</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>1165</x><y>643</y><w>180</w><h>140</h></coordinates><panel_attributes>BladeDecorator
+--
+
+--
+getAttackDescription(): void
+getAttackDamage(): int
+SwordDecorator(AbstractKnight)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>975</x><y>643</y><w>180</w><h>140</h></coordinates><panel_attributes>AxeDecorator
+--
+
+--
+getAttackDescription(): void
+getAttackDamage(): int
+SwordDecorator(AbstractKnight)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>585</x><y>643</y><w>180</w><h>140</h></coordinates><panel_attributes>BowDecorator
+--
+
+--
+getAttackDescription(): void
+getAttackDamage(): int
+SwordDecorator(AbstractKnight)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>395</x><y>643</y><w>180</w><h>140</h></coordinates><panel_attributes>DaggerDecorator
+--
+
+--
+getAttackDescription(): void
+getAttackDamage(): int
+SwordDecorator(AbstractKnight)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>205</x><y>643</y><w>180</w><h>140</h></coordinates><panel_attributes>SwordDecorator
+--
+
+--
+getAttackDescription(): void
+getAttackDamage(): int
+SwordDecorator(AbstractKnight)</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>1060</x><y>553</y><w>30</w><h>110</h></coordinates><panel_attributes>lt=-
+</panel_attributes><additional_attributes>10;10;10;90</additional_attributes></element><element><id>Relation</id><coordinates><x>480</x><y>553</y><w>30</w><h>110</h></coordinates><panel_attributes>lt=-
+</panel_attributes><additional_attributes>10;10;10;90</additional_attributes></element><element><id>Relation</id><coordinates><x>670</x><y>553</y><w>30</w><h>110</h></coordinates><panel_attributes>lt=-
+</panel_attributes><additional_attributes>10;10;10;90</additional_attributes></element><element><id>Relation</id><coordinates><x>870</x><y>553</y><w>30</w><h>110</h></coordinates><panel_attributes>lt=-
+</panel_attributes><additional_attributes>10;10;10;90</additional_attributes></element></diagram>
