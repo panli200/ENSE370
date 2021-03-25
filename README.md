@@ -13,7 +13,7 @@
 3. [Lab3 Abstract Factory Design Pattern](https://github.com/panli200/ENSE370/tree/master/lab3)
 * [Lab Document](https://github.com/adamtilson/ense370/blob/main/lab-3/lab-doc.md)
 
-4. Lab4 Decorator Design Pattern
+4. [Lab4 Decorator Design Pattern](https://github.com/panli200/ENSE370/tree/master/lab4)
 * [Lab Document](https://github.com/adamtilson/ense370/blob/main/lab-4/lab-doc.md)
 
 ## Assignments
