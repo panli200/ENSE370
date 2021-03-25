@@ -21,5 +21,5 @@
 * [Assignment Document](https://github.com/panli200/ENSE370/blob/master/A00/Assignment%20A00%20Java%20Refresher.pdf)
 2. [Assignment 01 Abstract Factory Pattern; Singleton Pattern](https://github.com/panli200/ENSE370/tree/master/A01)
 * [Assignment Document](https://github.com/panli200/ENSE370/blob/master/A01/Assignment%20A02%20Design%20Patterns%20II.pdf)
-3. Assignment 02 Decorator Pattern; MVC Pattern; Composite Pattern
+3. [Assignment 02 Decorator Pattern; MVC Pattern; Composite Pattern](https://github.com/panli200/ENSE370/tree/master/A02)
 * [Assignment Deocument]()
