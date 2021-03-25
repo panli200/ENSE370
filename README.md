@@ -22,4 +22,4 @@
 2. [Assignment 01 Abstract Factory Pattern; Singleton Pattern](https://github.com/panli200/ENSE370/tree/master/A01)
 * [Assignment Document](https://github.com/panli200/ENSE370/blob/master/A01/Assignment%20A01%20Design%20Patterns%20I.pdf)
 3. [Assignment 02 Decorator Pattern; MVC Pattern; Composite Pattern](https://github.com/panli200/ENSE370/tree/master/A02)
-* [Assignment Deocument]()
+* [Assignment Deocument](https://github.com/panli200/ENSE370/blob/master/A02/Assignment%20A02%20Design%20Patterns%20II.pdf)
