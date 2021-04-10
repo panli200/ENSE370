@@ -16,13 +16,13 @@
 4. [Lab4 Decorator Design Pattern](https://github.com/panli200/ENSE370/tree/master/lab4)
 * [Lab Document](https://github.com/adamtilson/ense370/blob/main/lab-4/lab-doc.md)
 
-5. [Lab4 Decorator Design Pattern](https://github.com/panli200/ENSE370/tree/master/lab5)
+5. [Lab5 Observer Design Pattern](https://github.com/panli200/ENSE370/tree/master/lab5)
 * [Lab Document](https://github.com/adamtilson/ense370/blob/main/lab-5/lab-doc.md)
 
-6. [Lab4 Decorator Design Pattern](https://github.com/panli200/ENSE370/tree/master/lab6)
+6. [Lab6 Redesign and Refactoring](https://github.com/panli200/ENSE370/tree/master/lab6)
 * [Lab Document](https://github.com/adamtilson/ense370/blob/main/lab-6/lab-doc.md)
 
-7. [Lab4 Decorator Design Pattern](https://github.com/panli200/ENSE370/tree/master/lab7)
+7. [Lab7 Reverse Engineering](https://github.com/panli200/ENSE370/tree/master/lab7)
 * [Lab Document](https://github.com/adamtilson/ense370/blob/main/lab-7/lab-doc.md)
 
 ## Assignments
